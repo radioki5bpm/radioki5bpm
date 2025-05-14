@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 my name is Donald (Don) Arnold. My US amateur radio call sign is KI5BPM. I live in College Station, Texas.
 
 <!--
 **radioki5bpm/radioki5bpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
